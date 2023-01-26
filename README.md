@@ -1,20 +1,9 @@
 ### 👋 Hey there! I am Suhas
 
 
-<img align="left" height="300" src="https://user-images.githubusercontent.com/120901971/214881452-95a4760c-f7b1-4b83-920e-525e9ce8387b.jpg" style="padding-right:10px;" />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<img align="left" height="300" src="https://user-images.githubusercontent.com/120901971/214881452-95a4760c-f7b1-4b83-920e-525e9ce8387b.jpg" style="padding-right:10px;" /> 
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
 
 ## I'm a Frontend Developer
 ### Languages and Tools:
